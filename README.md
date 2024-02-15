@@ -31,10 +31,3 @@ The tribute page provides a timeline of Elon Musk's most notable business endeav
 - View Elon Musk's timeline of business ventures.
 - Click on the Wikipedia link for more detailed information.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
